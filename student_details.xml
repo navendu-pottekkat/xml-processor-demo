@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_details>
+
+    <student>
+        <name></name>
+        <house></house>
+        <description></description>
+    </student>
+
+    <student>
+        <name></name>
+        <house></house>
+        <description></description>
+    </student>
+
+    <student>
+        <name></name>
+        <house></house>
+        <description></description>
+    </student>
+
+    <student>
+        <name></name>
+        <house></house>
+        <description></description>
+    </student>
+
+</student_details>
