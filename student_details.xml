@@ -2,13 +2,13 @@
 <student_details>
 
     <student>
-        <name></name>
-        <house></house>
-        <description></description>
+        <name>Shiyas</name>
+        <house>Gryffindor</house>
+        <description>values bravery, daring, nerve, and chivalry</description>
     </student>
 
     <student>
-        <name></name>
+        <name>Parvathy</name>
         <house></house>
         <description></description>
     </student>
