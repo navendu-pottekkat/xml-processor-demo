@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student_details.xsl" ?>
+
 <student_details>
 
     <student>
@@ -16,7 +18,7 @@
     <student>
         <name>Navendu</name>
         <house>Ravenclaw</house>
-        <description>intelligence, knowledge, curiosity, creativity and wit</description>
+        <description>values intelligence, knowledge, curiosity, creativity and wit</description>
     </student>
 
     <student>
