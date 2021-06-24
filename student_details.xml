@@ -9,20 +9,20 @@
 
     <student>
         <name>Parvathy</name>
-        <house></house>
-        <description></description>
+        <house>Hufflepuff</house>
+        <description>values hard work, dedication, patience, loyalty, and fair play</description>
     </student>
 
     <student>
-        <name></name>
-        <house></house>
-        <description></description>
+        <name>Navendu</name>
+        <house>Ravenclaw</house>
+        <description>intelligence, knowledge, curiosity, creativity and wit</description>
     </student>
 
     <student>
-        <name></name>
-        <house></house>
-        <description></description>
+        <name>Sachin</name>
+        <house>Slytherin</house>
+        <description>values ambition, leadership, self-preservation, cunning and resourcefulness</description>
     </student>
 
 </student_details>
